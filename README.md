@@ -46,17 +46,25 @@ Soy un perfil **híbrido** que combina la lógica del desarrollo web con la prec
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raul-Labrador&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-Labrador&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raul-Labrador&show_icons=true&theme=transparent&title_color=00c8ff&text_color=e8edf8&icon_color=00c8ff&border_color=00c8ff&include_all_commits=true&count_private=true" alt="Estadísticas de Raúl" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-Labrador&layout=compact&theme=transparent&title_color=00c8ff&text_color=e8edf8&icon_color=00c8ff&border_color=00c8ff&hide=html,css" alt="Lenguajes más usados" />
 </p>
 
 ---
 
 ## 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raúl-labrador-pérez-b2159126a/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00c8ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raul-labrador.github.io/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raullabrador10@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/raúl-labrador-pérez-b2159126a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://raul-labrador.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-00c8ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:raullabrador10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 <p align="center">
