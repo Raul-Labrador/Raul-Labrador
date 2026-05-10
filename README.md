@@ -46,8 +46,7 @@ Soy un perfil **híbrido** que combina la lógica del desarrollo web con la prec
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raul-Labrador&show_icons=true&theme=transparent&title_color=00c8ff&text_color=e8edf8&icon_color=00c8ff&border_color=00c8ff&include_all_commits=true&count_private=true" alt="Estadísticas de Raúl" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-Labrador&layout=compact&theme=transparent&title_color=00c8ff&text_color=e8edf8&icon_color=00c8ff&border_color=00c8ff&hide=html,css" alt="Lenguajes más usados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raul-Labrador&theme=tokyonight" />
 </p>
 
 ---
