@@ -1,7 +1,7 @@
 # Hi there! I'm Raúl Labrador <img src="https://media.giphy.com/media/hvRJCLzPaCUEcyTsiM/giphy.gif" width="28">
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/99/43/74/994374c6c7dd509cf356cc1f24b40936.gif" width="100%" alt="Raúl Labrador Tech Banner" />
+  <img src="https://i.pinimg.com/originals/19/25/8b/19258b179cb73321abdbfc403e5096a6.gif" width="100%" alt="Raúl Labrador Tech Banner" />
 </p>
 
 ### Fullstack Developer | Data Designer | Big Data & AI Specialist in Training
