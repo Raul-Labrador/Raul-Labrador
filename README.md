@@ -49,8 +49,8 @@ I am a **hybrid tech profile** combining the logical architecture of Fullstack W
 ## GitHub Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raul-Labrador&show_icons=true&theme=transparent&title_color=00c8ff&text_color=e8edf8&icon_color=00c8ff&border_color=00c8ff&include_all_commits=true&count_private=true" alt="Raúl's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-Labrador&layout=compact&theme=transparent&title_color=00c8ff&text_color=e8edf8&icon_color=00c8ff&border_color=00c8ff&hide=html,css" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Raul-Labrador&show_icons=true&theme=transparent&title_color=00c8ff&text_color=e8edf8&icon_color=00c8ff&border_color=00c8ff&include_all_commits=true&count_private=true" alt="Raúl's Stats" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Raul-Labrador&layout=compact&theme=transparent&title_color=00c8ff&text_color=e8edf8&icon_color=00c8ff&border_color=00c8ff&hide=html,css" alt="Most Used Languages" />
 </p>
 
 ---
